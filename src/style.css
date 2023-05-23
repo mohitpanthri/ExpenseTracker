@@ -10,7 +10,7 @@
 
 body {
   /* background-color: #020c1b; */
-  background: url("/background/Shiny.svg");
+  background-image: url("/background/Shiny.svg");
   background-size: cover;
   display: flex;
   flex-direction: column;
