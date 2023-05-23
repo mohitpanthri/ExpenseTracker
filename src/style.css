@@ -178,3 +178,11 @@ input[type="number"] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+// Media Queries for Mobile Devices
+@media (max-width: 480px) {
+  .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
